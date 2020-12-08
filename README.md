@@ -1,3 +1,9 @@
+Recomendation for GitHub Project Management:
+1. First Introduce your project, propoerly. 
+2. Then, create headings for different parts of the project. 
+3. Last, Create Bi-Weekly milestones with Evidence 
+
+
 # Interfacing-TDS-Sensor-with-Arduino
 The TDS Sensor is interfaced with microcontroller Arduino  to get the TDS value of water to check its quality
 
