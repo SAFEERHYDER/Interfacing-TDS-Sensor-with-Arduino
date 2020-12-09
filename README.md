@@ -2,6 +2,8 @@ Recomendation for GitHub Project Management:
 1. First Introduce your project, propoerly. 
 2. Then, create headings for different parts of the project. 
 3. Last, Create Bi-Weekly milestones with Evidence 
+4. Have repository named changed to Projet Name
+5. Mention Project Members with supervisor name
 
 
 # Interfacing-TDS-Sensor-with-Arduino
