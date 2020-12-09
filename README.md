@@ -1,9 +1,26 @@
+# IoT-Based Real-Time Water Quality Monitoring System
+
 Recomendation for GitHub Project Management:
-1. First Introduce your project, propoerly. 
-2. Then, create headings for different parts of the project. 
-3. Last, Create Bi-Weekly milestones with Evidence 
-4. Have repository named changed to Projet Name
-5. Mention Project Members with supervisor name
+
+1. Project Name and description about team members and supervisor
+2. Brief Project Introduction 
+3. Probelm Statement
+4. Project workflow 
+5. Expected outcomes
+6. Project labor division
+
+
+///////////////////////////////////////
+
+
+1. Bi-Weekly updates and Milestones 
+2. Repeat every 15 days
+3. 
+4. Final Milestone
+
+
+///////////////////////////////////
+Keep adding all datasheets and useful files and links as well.
 
 
 # Interfacing-TDS-Sensor-with-Arduino
